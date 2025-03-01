@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="to_label">To:</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="subject_hint">Subject</string>
+    <string name="message_hint">Message</string>
+    <string name="send_button">Send</string>
+
+    <string name="name">Name</string>
+    <string name="breed">Breed</string>
+    <string name="description">Description</string>
+    <string name="daily_walks">Amount of daily walks</string>
+    <string name="food">Food</string>
+    <string name="register">Register pet!</string>
+    <string name="weight">Weight (KG)</string>
+    <string name="ID_owner">Enter your ID</string>
+</resources>
